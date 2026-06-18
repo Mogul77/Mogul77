@@ -138,7 +138,7 @@ Build impactful AI-powered products that solve real-world problems.
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/mogul manoj](https://www.linkedin.com/in/mogulmanoj?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/mogulmanoj?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -146,7 +146,7 @@ Build impactful AI-powered products that solve real-world problems.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="[https://myportfolio.com](https://portfolio-14ux.vercel.app/)">
+<a href="https://portfolio-14ux.vercel.app/">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
