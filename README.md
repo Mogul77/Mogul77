@@ -120,9 +120,7 @@ Build impactful AI-powered products that solve real-world problems.
 | Project | Description |
 |----------|-------------|
 | 🔗 LinkForge | URL Shortener with Analytics |
-| 📝 Online Test Platform | Full Stack MERN Examination Portal |
-| 🤖 AI Placement Prediction | ML-based Placement Prediction System |
-| 🎓 Alumni Association Portal | University Alumni Management System |
+| 📝 Online Test Platform | Full Stack MERN Examination Portal ||
 
 ---
 
@@ -158,7 +156,7 @@ Build impactful AI-powered products that solve real-world problems.
 
 # 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> "Code. Learn. Build. Repeat.  !!!"
 
 ---
 
